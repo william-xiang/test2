@@ -11,4 +11,4 @@ repository:
 category:
 spec:
   extensions:
-          - https://github.com/william-xiang/vs-extension/raw/main/helloFalks.vsix
+          - https://github.com/william-xiang/test2/raw/main/helloFalks.vsix
