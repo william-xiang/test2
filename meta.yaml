@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: hellofalks
+name: hellofalks
+version: 0.0.1
+type: VS Code extension
+displayName: helloFalks
+title: helloFalks
+description: my plugin for hello
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository:
+category:
+spec:
+  extensions:
+          - https://github.com/william-xiang/vs-extension/raw/main/helloFalks.vsix
